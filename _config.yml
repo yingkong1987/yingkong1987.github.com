@@ -1,0 +1,23 @@
+markdown: kramdown
+highlighter: pygments
+permalink: blog/:year/:month/:day/:title.html
+paginate: 6
+paginate_path: page/:num
+
+blog:
+    name: YingKong1987                                               # 博客名称
+    description:  iOS Dev Blog                                       # 博客描述
+    title: 1987--依旧霸气                      						 # 网页标题
+    url: yingkong1987.github.io                                      # 博客地址
+    duoshuo: http://weibo.com/1882658432                             # 多说ID
+    tongji:                                              # 百度统计ID
+    qiniu:                                               # 七牛云地址
+author:
+    name:  YingKong1987                                              # 作者名称
+    email: yingkong1987@163.com                                      # 邮箱地址
+    weibo: http://weibo.com/1882658432                               # 微博地址
+    github: https://github.com/yingkong1987                          # GitHub地址
+    logo: http://ww1.sinaimg.cn/mw690/70371680tw1ed6bht3485j20r40sgtdf.jpg                                               # logo地址
+    douban:
+        name:                                            # 豆瓣地址名称
+        key:                                             # 豆瓣API Key
